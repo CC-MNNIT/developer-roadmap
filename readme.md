@@ -32,7 +32,7 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 
 
-## A Nice video explanation 
+## A nice video explanation 
 
 [Web Development in 2018 - A Practical Guide](https://www.youtube.com/embed/Zftx68K-1D4)
 
