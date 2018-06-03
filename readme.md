@@ -30,6 +30,12 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 ![](https://i.imgur.com/pyg9mH1.png)
 
+
+
+## A Nice video explanation 
+
+[Web Development in 2018 - A Practical Guide](https://www.youtube.com/embed/Zftx68K-1D4)
+
 ## 🚦 Wrap Up
 
 If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
